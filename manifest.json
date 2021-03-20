@@ -1,37 +1,38 @@
 {
   "name": "SINAU BARENG",
-  "short_name": "maskuns",
+  "short_name": SinauBareng
+  "scope": "https://www.maskuns.my.id/",
   "start_url": "https://www.maskuns.my.id/",
   "display": "standalone",
-  "background_color": "#1b9a9a",
+  "background_color": "#fff",
   "theme_color": "#2B0C93",
   "description": "SINAU BARENG adalah blog resmi yang dikelola oleh maskuns dengan tujuan mengajak sobat sekalian belajar bersama seputar Pendidikan dan ilmu Nahwu.",
   "icons": [{
-    "src": "https://1.bp.blogspot.com/--HaSEhFwtLo/YDlaYlQSyXI/AAAAAAAAEYM/snMiwrnkgcUKbVipkLf_jsUnnP8MOKT3gCLcBGAsYHQ/s48/icon-mskuns%255B1%255D.png",
+    "src": "https://1.bp.blogspot.com/-L55E_2mUz4o/YFYMS3GOLII/AAAAAAAAEjk/aplJjCDRD_UlvN6ar_WXzXyV0JhWn5CCQCLcBGAsYHQ/s48/icon-new-SB.png",
     "sizes": "48x48",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/--HaSEhFwtLo/YDlaYlQSyXI/AAAAAAAAEYM/snMiwrnkgcUKbVipkLf_jsUnnP8MOKT3gCLcBGAsYHQ/s72/icon-mskuns%255B1%255D.png",
+    "src": "https://1.bp.blogspot.com/-L55E_2mUz4o/YFYMS3GOLII/AAAAAAAAEjk/aplJjCDRD_UlvN6ar_WXzXyV0JhWn5CCQCLcBGAsYHQ/s72/icon-new-SB.png",
     "sizes": "72x72",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/--HaSEhFwtLo/YDlaYlQSyXI/AAAAAAAAEYM/snMiwrnkgcUKbVipkLf_jsUnnP8MOKT3gCLcBGAsYHQ/s96/icon-mskuns%255B1%255D.png",
+    "src": "https://1.bp.blogspot.com/-L55E_2mUz4o/YFYMS3GOLII/AAAAAAAAEjk/aplJjCDRD_UlvN6ar_WXzXyV0JhWn5CCQCLcBGAsYHQ/s92/icon-new-SB.png",
     "sizes": "96x96",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/--HaSEhFwtLo/YDlaYlQSyXI/AAAAAAAAEYM/snMiwrnkgcUKbVipkLf_jsUnnP8MOKT3gCLcBGAsYHQ/s44/icon-mskuns%255B1%255D.png",
+    "src": "https://1.bp.blogspot.com/-L55E_2mUz4o/YFYMS3GOLII/AAAAAAAAEjk/aplJjCDRD_UlvN6ar_WXzXyV0JhWn5CCQCLcBGAsYHQ/s144/icon-new-SB.png",
     "sizes": "144x144",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/--HaSEhFwtLo/YDlaYlQSyXI/AAAAAAAAEYM/snMiwrnkgcUKbVipkLf_jsUnnP8MOKT3gCLcBGAsYHQ/s168/icon-mskuns%255B1%255D.png",
+    "src": "https://1.bp.blogspot.com/-L55E_2mUz4o/YFYMS3GOLII/AAAAAAAAEjk/aplJjCDRD_UlvN6ar_WXzXyV0JhWn5CCQCLcBGAsYHQ/s168/icon-new-SB.png",
     "sizes": "168x168",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/--HaSEhFwtLo/YDlaYlQSyXI/AAAAAAAAEYM/snMiwrnkgcUKbVipkLf_jsUnnP8MOKT3gCLcBGAsYHQ/s192/icon-mskuns%255B1%255D.png",
+    "src": "https://1.bp.blogspot.com/-L55E_2mUz4o/YFYMS3GOLII/AAAAAAAAEjk/aplJjCDRD_UlvN6ar_WXzXyV0JhWn5CCQCLcBGAsYHQ/s192/icon-new-SB.png",
     "sizes": "192x192",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/--HaSEhFwtLo/YDlaYlQSyXI/AAAAAAAAEYM/snMiwrnkgcUKbVipkLf_jsUnnP8MOKT3gCLcBGAsYHQ/s512/icon-mskuns%255B1%255D.png",
+    "src": "https://1.bp.blogspot.com/-L55E_2mUz4o/YFYMS3GOLII/AAAAAAAAEjk/aplJjCDRD_UlvN6ar_WXzXyV0JhWn5CCQCLcBGAsYHQ/s512/icon-new-SB.png",
     "sizes": "512x512",
     "type": "image/png"
   }]
