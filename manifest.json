@@ -1,12 +1,12 @@
 {
-  "name": "SINAU BARENG",
-  "short_name": SinauBareng
+  "name": "Maskuns",
+  "short_name": Maskuns
   "scope": "https://www.maskuns.my.id/",
   "start_url": "https://www.maskuns.my.id/",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#2B0C93",
-  "description": "SINAU BARENG adalah blog resmi yang dikelola oleh maskuns dengan tujuan mengajak sobat sekalian belajar bersama seputar Pendidikan dan ilmu Nahwu.",
+  "description": "Maskuns merupakan sebuah blog yang membahas seputar pendidikan umum, kajian keislaman, dan ilmu tata bahasa Arab khususnya ilmu Nahwu dan Sharaf",
   "icons": [{
     "src": "https://1.bp.blogspot.com/-L55E_2mUz4o/YFYMS3GOLII/AAAAAAAAEjk/aplJjCDRD_UlvN6ar_WXzXyV0JhWn5CCQCLcBGAsYHQ/s48/icon-new-SB.png",
     "sizes": "48x48",
