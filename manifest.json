@@ -1,6 +1,6 @@
 {
   "name": "Maskuns",
-  "short_name": Maskuns
+  "short_name": "Maskuns",
   "scope": "https://www.maskuns.my.id/",
   "start_url": "https://www.maskuns.my.id/",
   "display": "standalone",
